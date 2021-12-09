@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-mongodb-websocket",
+  "version": "1.0.0",
+  "description": "NodeJs course with mongoDB and websocket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "websocket"
+  ],
+  "author": "Edwin Caceres",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
